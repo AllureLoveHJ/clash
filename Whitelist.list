@@ -1,7 +1,8 @@
-DOMAIN-SUFFIX,5280.fun
-DOMAIN-SUFFIX,adguard.com
-DOMAIN-SUFFIX,bbs.binmt.cc
-DOMAIN-SUFFIX,adrules.top
-DOMAIN-SUFFIX,mwfimsvfast3.cc
-DOMAIN-SUFFIX,dns.66a.net
-DOMAIN,dns.dns1.top
+payload:
+ - DOMAIN-SUFFIX,5280.fun
+ - DOMAIN-SUFFIX,adguard.com
+ - DOMAIN-SUFFIX,bbs.binmt.cc
+ - DOMAIN-SUFFIX,adrules.top
+ - DOMAIN-SUFFIX,mwfimsvfast3.cc
+ - DOMAIN-SUFFIX,dns.66a.net
+ - DOMAIN,dns.dns1.top
