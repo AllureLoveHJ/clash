@@ -4,6 +4,7 @@ payload:
  - DOMAIN-SUFFIX,bbs.binmt.cc
  - DOMAIN-SUFFIX,adrules.top
  - DOMAIN-SUFFIX,mwfimsvfast3.cc
- - DOMAIN-SUFFIX,dns.66a.net
  - DOMAIN-SUFFIX,rikka.app
+ - DOMAIN-SUFFIX,dns.66a.net
+ - DOMAIN-SUFFIX,dns.ipv4dns.com
  - DOMAIN,dns.dns1.top
