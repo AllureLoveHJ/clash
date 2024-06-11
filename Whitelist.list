@@ -1,11 +1,15 @@
+# 内容：自定义名单
+# 安卓dns
+DOMAIN-SUFFIX,trli.club
+DOMAIN-SUFFIX,dns1.top
+DOMAIN-SUFFIX,66a.net
+# 安卓软件
+DOMAIN-SUFFIX,nnnen.com
+DOMAIN-SUFFIX,wxp2022.vip
+DOMAIN-SUFFIX,rikka.app
+DOMAIN-SUFFIX,lemurbrowser.com
+# 其他
 DOMAIN-SUFFIX,kan80.app
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,bbs.binmt.cc
 DOMAIN-SUFFIX,mwfimsvfast3.cc
-DOMAIN-SUFFIX,rikka.app
-DOMAIN-SUFFIX,trli.club
-DOMAIN-SUFFIX,dns1.top
-DOMAIN-SUFFIX,66a.net
-DOMAIN-SUFFIX,lemurbrowser.com
-DOMAIN-SUFFIX,nnnen.com
-DOMAIN-SUFFIX,wxp2022.vip
