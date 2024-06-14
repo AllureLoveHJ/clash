@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,wxp2022.vip
 DOMAIN-SUFFIX,rikka.app
 DOMAIN-SUFFIX,lemurbrowser.com
 DOMAIN,scene7.omarea.com
+# tvbox
+DOMAIN,api.web.360kan.com
 # 其他
 DOMAIN-SUFFIX,kan80.app
 DOMAIN-SUFFIX,adguard.com
