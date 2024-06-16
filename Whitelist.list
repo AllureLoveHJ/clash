@@ -15,7 +15,7 @@ DOMAIN,scene7.omarea.com
 DOMAIN,api.web.360kan.com
 DOMAIN-KEYWORD,tvbox
 DOMAIN,m3api.gdhktv.com
-DOMAIN,cfssd3.tvbox2.com
+# DOMAIN,cfssd3.tvbox2.com
 # 其他
 DOMAIN-SUFFIX,kan80.app
 DOMAIN-SUFFIX,adguard.com
