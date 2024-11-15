@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,nnnen.com
 DOMAIN-SUFFIX,wxp2022.vip
 DOMAIN-SUFFIX,rikka.app
 DOMAIN-SUFFIX,lemurbrowser.com
-# DOMAIN-SUFFIX,manwav3.xyz
-DOMAIN-SUFFIX,mwappimgs.cc
 DOMAIN,scene7.omarea.com
 # tvbox
 DOMAIN,api.web.360kan.com
@@ -17,7 +15,6 @@ DOMAIN-KEYWORD,tvbox
 DOMAIN,m3api.gdhktv.com
 # DOMAIN,cfssd3.tvbox2.com
 # 其他
-DOMAIN-SUFFIX,kan80.app
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,bbs.binmt.cc
 DOMAIN-SUFFIX,mwfimsvfast3.cc
