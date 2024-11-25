@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "cn.baozimh.com",
         "baozimh.com",
         "cn.czmanga.com",
         "baozicdn.com",
